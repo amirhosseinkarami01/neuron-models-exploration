@@ -1,4 +1,3 @@
-./train
-./test
+./data
 ./train.zip
-./test/zip
+./test.zip
